@@ -19,7 +19,7 @@ This code is based on a free tutorial by Agumented Startups. All free tutorials 
 <!-- /TOC -->
 
 ## Face Landmark Detection
-
+ 
 ### Basic Setup
 
 Go to Augmented Startups and open the [Face Landmark Detection StreamLit User Interface](https://www.augmentedstartups.com/face-mesh-Stream-Lit-UI) project page. Scroll down and download the project setup files:
@@ -143,7 +143,7 @@ if app_mode == 'About':
                 ## Face Mesh \n
                 In this application we are using **MediaPipe** for creating a Face Mesh. **StreamLit** is used to create the Web Graphical User Interface (GUI) \n
                 
-                - [Github](http://github.com) \n
+                - [Github](https://github.com/mpolinowski/streamLit-cv-mediapipe) \n
     ''')
 
 ## Add Sidebar and Window style

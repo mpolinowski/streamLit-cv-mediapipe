@@ -75,7 +75,7 @@ if app_mode == 'About':
                 In this application we are using **MediaPipe** for creating a Face Mesh. **StreamLit** is to create 
                 the Web Graphical User Interface (GUI) \n
                 
-                - [Github](http://github.com) \n
+                - [Github](https://github.com/mpolinowski/streamLit-cv-mediapipe) \n
     ''')
 
     ## Add Sidebar and Window style
